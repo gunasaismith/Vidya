@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vidya</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout</string>
+    <string name="signup">SignuP</string>
+    <string name="sign_up">Signup</string>
+    <string name="signup_">SIGN UP</string>
+    <string name="select_topic_prompt">Select a topic</string>
+</resources>

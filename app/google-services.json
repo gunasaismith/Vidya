@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "317632891313",
+    "project_id": "patient-login-da0ce",
+    "storage_bucket": "patient-login-da0ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317632891313:android:c6f32e4538b1a871009590",
+        "android_client_info": {
+          "package_name": "com.example.doc2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0FIPOxMTZ9gXXrm_JdjUUOzVefWznHCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317632891313:android:b613e6c137c8b71e009590",
+        "android_client_info": {
+          "package_name": "com.example.doceasy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0FIPOxMTZ9gXXrm_JdjUUOzVefWznHCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
